@@ -35,9 +35,7 @@ This project demonstrates string comparison algorithms, dynamic DOM manipulation
 * Reveal animations
 
 ## Live Demo
-
-(Enable GitHub Pages and paste link here)
+https://doldol2002.github.io/wordle-clone-js/
 
 ## Author
-
-Jeremiah
+Jeremiah Cho
